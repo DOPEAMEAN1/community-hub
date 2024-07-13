@@ -1,13 +1,17 @@
----
-title: Governance Videos
-lang: en-US
----
+[----------------------------------------------]
+The Optimism Video Title: How Optimism Rule's The Web3 Space - The Optimism Governance Video
+Prefered Language= Engish-US 
+Video Introduction: A video on how Optimism's Governance is opening the way for futuristic|
+projects to thrive on the blockchain free of obstruction and is leading to fuled creativity that manifest's itself in the|
+form of collabrative projects that attract new crypto-currency adaptators, companies, games, and platforms.
 
-These are governance videos.
+[----------------------------------------------]
+
+These are some of Optimism's governance videos created to guide, motivate, and inspire developers and/or thier new projects.
 [See here for developer videos](../developers/media.md).
 
-
-## ETHDenver 2023 
+[=======++++++++=======]
+#### ETHDenver 2023 #### 
 
 February 24th to Mar 5th, 2023
 
